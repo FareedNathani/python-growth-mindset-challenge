@@ -52,5 +52,5 @@ Pull requests are welcome! Feel free to open an issue for feature requests or bu
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, feel free to reach out via [your contact information].
+For any inquiries, feel free to reach out via www.linkedin.com/in/fareed-nathani-30180a324.
 
